@@ -12,8 +12,10 @@
     <link rel="stylesheet" href="css/media.css">
     <script src="https://kit.fontawesome.com/47bc1c429d.js" crossorigin="anonymous"></script>
     <style>
-        body {
-            font-family: poppins;
+         body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
     </style>
 </head>

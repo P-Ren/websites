@@ -16,10 +16,10 @@
             font-family: 'Inter', sans-serif;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            font-size: 1.6rem;
         }
-        .m{
+        .m_top{
             margin-top: 8rem;
-            
         }
     </style>
 </head>
@@ -37,16 +37,15 @@
     <!-- Search form end -->
 
     <!-- home section starts -->
-     <div class="m">
-        <?php include_once 'sub_cetegory/cetegory.php'?> 
-     </div>
+     <div class="m_top"></div>
+   <?php include_once 'products.php'?> 
     <!-- home section ends -->
-  
+    
     <!-- menu section ends -->
 
-    <!-- order section starts -->
-
-    <!-- order section ends -->
+    <!-- Review section starts -->
+   <?php include "newproduct.php"?>
+    <!-- Review section ends -->
 
     <!-- footer section starts -->
     <?php include "footer.php"?>

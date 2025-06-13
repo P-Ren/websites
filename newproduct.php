@@ -7,19 +7,7 @@
 
                 <div class="swiper-slide slide">
                     <div class="fas fa-quote-right"></div>
-                    <div class="user">
-                        <img src="img/SOMOURN.jpg" alt="" srcset="">
-                        <div class="user-info">
-                            <h3>em sam ourn</h3>
-                            <div class="stars">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star-half-alt"></i>
-                            </div>
-                        </div>
-                    </div>
+                   
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam voluptates exercitationem
                         inventore cumque numquam similique repellat eaque dolor beatae delectus, quasi aliquid. Dolorem,
                         ex temporibus eos fuga in architecto.</p>
@@ -51,13 +39,7 @@
                         <img src="img/Danem.jpg" alt="" srcset="">
                         <div class="user-info">
                             <h3>lay sovandanem</h3>
-                            <div class="stars">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star-half-alt"></i>
-                            </div>
+                           
                         </div>
                     </div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam voluptates exercitationem
