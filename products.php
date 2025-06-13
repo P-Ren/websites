@@ -44,14 +44,7 @@
             </div>
 
             <!-- Price Range Filter -->
-            <div class="mb-6 pb-4 border-b border-gray-200">
-                <h3 class="font-semibold text-lg mb-3 text-gray-700">Price Range</h3>
-                <input type="range" min="0" max="1000" value="500" class="w-full h-2 bg-indigo-200 rounded-lg appearance-none cursor-pointer">
-                <div class="flex justify-between text-sm text-gray-600 mt-2">
-                    <span>$0</span>
-                    <span>$1000+</span>
-                </div>
-            </div>
+           
 
             <!-- Brand Filter -->
             <div class="mb-6 pb-4 border-b border-gray-200">
