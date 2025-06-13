@@ -5,7 +5,7 @@
                     <div class="content">
                         <span>Cooker Hood</span>
                         <h3>Clean your Kitchen</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia vel vero commodi.</p>
+                        <p>ទទួលបានអារម្មណ៏រីករាយរាល់ពេលចម្អិនអាហារ</p>
                         <a href="#" class="btn">order now</a>
                     </div>
                     <div class="image">
@@ -17,7 +17,7 @@
                     <div class="content">
                         <span>ចង្រ្កានហ្គាសបង្កប់</span>
                         <h3>សន្សំសំចៃហ្គាស ចំណេញថវិការនិងពេលវេលា</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia vel vero commodi.</p>
+                        <p>សុវត្ថិភាពក្នុងពេលចម្អិនម្ហូបអាហារលោកអ្នក!</p>
                         <a href="#" class="btn">order now</a>
                     </div>
                     <div class="image">
@@ -29,7 +29,7 @@
                     <div class="content">
                         <span>Oven</span>
                         <h3>ងាយស្រួលក្នុងការចម្អិន</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia vel vero commodi.</p>
+                        <p>រីករាយជាមួយមុខងារយ៉ាងសម្បូរបែប</p>
                         <a href="#" class="btn">order now</a>
                     </div>
                     <div class="image">

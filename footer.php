@@ -3,19 +3,16 @@
             <div class="box">
                 <h3>location</h3>
                 <a href="#">cambodia</a>
-                <a href="#">jaspan</a>
-                <a href="#">USA</a>
-                <a href="#">thailand</a>
-                <a href="#">laos</a>
+                <a href="#">Phnom Penh</a>
+                
             </div>
 
             <div class="box">
                 <h3>quick link</h3>
                 <a href="#home">home</a>
-                <a href="#dishes">dishes</a>
+                <a href="#dishes">Top Cetegories</a>
                 <a href="#about">about</a>
-                <a href="#menu">menu</a>
-                <a href="#order">order</a>
+                <a href="#menu">Pupular Product</a>
             </div>
 
             <div class="box">
@@ -28,11 +25,10 @@
             </div>
 
             <div class="box">
-                <h3>follow us</h3>
+                <h3>Contact us</h3>
                 <a href="#">facebook</a>
-                <a href="#">twitter</a>
-                <a href="#">instargram</a>
-                <a href="#">linkedin</a>
+                <a href="#">YouTube</a>
+                <a href="#">Telegram</a>
             </div>
         </div>
 
