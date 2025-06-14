@@ -11,8 +11,8 @@
        <nav class="navbar">
            <a class="active" href="index.php">home</a>
            <a href="Cetegories.php">Categories</a>
-           <a href="#about">about</a>
            <a href="allProducts.php">Products</a>
+           <a href="#about">about</a>
            <a href="#review">Newproduct</a>
            <a href="#order">conteact</a>
        </nav>

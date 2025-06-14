@@ -35,10 +35,10 @@
             <div class="mb-6 pb-4 border-b border-gray-200">
                 <h2 class="font-semibold text-lg mb-3 text-gray-700">Category</h2>
                 <ul>
-                    <li class="mb-2"><a href="Gashob.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Built-In Gashob</a></li>
-                    <li class="mb-2"><a href="Gas_stove.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Gas Stove</a></li>
-                    <li class="mb-2"><a href="Hob.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Cooker Hob</a></li>
-                    <li class="mb-2"><a href="Hood.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Hood</a></li>
+                    <li class="mb-2"><a href="type_products/Gashob.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Built-In Gashob</a></li>
+                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Gas Stove</a></li>
+                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Cooker Hob</a></li>
+                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Hood</a></li>
                     <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Microwave & Oven</a></li>
                 </ul>
             </div>
@@ -77,7 +77,29 @@
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.1888Q</p>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+            </div>
+            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <div class="flex items-center mb-3">
+                    <span class="text-yellow-400">★★★★☆</span>
+                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
+                </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2808Q</p>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+            </div>
+            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <div class="flex items-center mb-3">
+                    <span class="text-yellow-400">★★★★☆</span>
+                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
+                </div>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.1888Q</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
 
