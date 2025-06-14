@@ -24,14 +24,14 @@
       </div>
       <div class="swiper-slide">
         <img
-          src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=481&q=80" />
+          src="img/Poster1.png" />
         <div>
           <h2>Pizza</h2>
         </div>
       </div>
       <div class="swiper-slide">
         <img
-          src="https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=410&q=80" />
+          src="img/Poster1.png" />
         <div>
           <h2>Sandwich with boiled egg</h2>
         </div>

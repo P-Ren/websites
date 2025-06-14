@@ -35,11 +35,11 @@
             <div class="mb-6 pb-4 border-b border-gray-200">
                 <h2 class="font-semibold text-lg mb-3 text-gray-700">Category</h2>
                 <ul>
-                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Built-In Gashob</a></li>
-                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Gas Stove</a></li>
-                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Cooker Hob</a></li>
-                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Hood</a></li>
-                    <li class="mb-2"><a href="#" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Microwave & Oven</a></li>
+                    <li class="mb-2"><a href="Gashob.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Built-In Gashob</a></li>
+                    <li class="mb-2"><a href="Gas_stove.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Gas Stove</a></li>
+                    <li class="mb-2"><a href="Hob.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Cooker Hob</a></li>
+                    <li class="mb-2"><a href="Hood.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Hood</a></li>
+                    <li class="mb-2"><a href="Oven.php" class="text-gray-600 hover:text-indigo-600 transition-colors duration-200">Microwave & Oven</a></li>
                 </ul>
             </div>
 

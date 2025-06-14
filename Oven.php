@@ -39,7 +39,7 @@
 
     <!-- home section starts -->
      <div class="m_top"></div>
-   <?php include_once 'type_products/sub_hood.php'?> 
+   <?php include_once 'type_products/sub_oven.php'?> 
     <!-- home section ends -->
     
     <!-- menu section ends -->
