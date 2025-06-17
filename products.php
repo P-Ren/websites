@@ -78,7 +78,7 @@
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2808Q</p>
-               <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"> <a href="">Add to Cart</a></button>
+               <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"> <a href="gashob_detail/2808.php">Add to Cart</a></button>
             </div>
 
             <!-- Product Card 2 -->
