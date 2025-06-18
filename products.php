@@ -70,7 +70,7 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="img/gashob.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/2808_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
                 <div class="flex items-center mb-3">
@@ -91,7 +91,7 @@
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2818Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"><a href="gashob_detail/2818.php">View More</a></button>
             </div>
 
             <!-- Product Card 3 -->
@@ -104,7 +104,7 @@
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2828Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"><a href="gashob_detail/2828.php">View More</a></button>
             </div>
 
             <!-- Product Card 4 -->

@@ -89,20 +89,8 @@
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2808Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"><a href="gashob_detail/2808.php">View More</a></button>
             </div>
-            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
-                <div class="flex items-center mb-3">
-                    <span class="text-yellow-400">★★★★☆</span>
-                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
-                </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.1888Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
-            </div>
-
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="https://placehold.co/300x200/FDBA74/ffffff?text=Product+2" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">

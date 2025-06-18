@@ -38,7 +38,7 @@
                     </div>
                     <h3>delicious food</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, quis.</p>
-                    <a href="detailproducts.php" class="btn">add to card</a>
+                    <a href="gashob_detail/2818.php" class="btn">add to card</a>
                     <span class="price">$12.99</span>
                 </div>
             </div>
