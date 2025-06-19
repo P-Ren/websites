@@ -121,3 +121,7 @@ body {
             margin-left: 25px;
             
         }
+        .zoom:hover{
+            height: 250px;
+            transition-duration: 0.2s;
+        }

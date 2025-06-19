@@ -9,11 +9,29 @@
         <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
             <div class="card h-100 shadow-sm rounded-lg">
                 <div class="product-image-container w-100" style="height: 180px;">
-                    <img src="https://placehold.co/800x600/e0e0e0/ffffff?text=Related+Prod1" alt="Related Product 1">
+                    <a href="2818.php" class="zoom"><img src="../pic/2818_1.png" alt="Related Product 1"></a>
                 </div>
                 <div class="card-body text-center">
-                    <h5 class="card-title fw-semibold text-truncate mb-1">"Beast" Unisex Tank</h5>
-                    <p class="card-text fw-bold text-dark mb-2">$20</p>
+                    <h5 class="card-title fw-semibold text-truncate mb-1">Built-In Gashob</h5>
+                    <p class="card-text fw-bold mb-2 font_color">Model RC:2818Q</p>
+                    <div class="star-rating mb-2">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
+             <div class="card h-100 shadow-sm rounded-lg">
+                <div class="product-image-container w-100" style="height: 180px;">
+                    <a href="2808.php" class=""><img src="../pic/2808_1.png" alt="Related Product 2"></a>
+                </div>
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-semibold text-truncate mb-1">Built-In Gashob</h5>
+                    <p class="card-text fw-bold mb-2 font_color">Model RC:2808Q</p>
                     <div class="star-rating mb-2">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -27,29 +45,11 @@
         <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
             <div class="card h-100 shadow-sm rounded-lg">
                 <div class="product-image-container w-100" style="height: 180px;">
-                    <img src="https://placehold.co/800x600/a0c4ff/ffffff?text=Related+Prod2" alt="Related Product 2">
+                    <a href="2828.php"><img src="../pic/2828_1.png" alt="Related Product 3"></a>
                 </div>
                 <div class="card-body text-center">
-                    <h5 class="card-title fw-semibold text-truncate mb-1">Best Friend Bracelet</h5>
-                    <p class="card-text fw-bold text-dark mb-2">$25</p>
-                    <div class="star-rating mb-2">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
-            <div class="card h-100 shadow-sm rounded-lg">
-                <div class="product-image-container w-100" style="height: 180px;">
-                    <img src="https://placehold.co/800x600/caffbf/ffffff?text=Related+Prod3" alt="Related Product 3">
-                </div>
-                <div class="card-body text-center">
-                    <h5 class="card-title fw-semibold text-truncate mb-1">Heart Shaped Pendant Necklace</h5>
-                    <p class="card-text fw-bold text-dark mb-2">$95+</p>
+                    <h5 class="card-title fw-semibold text-truncate mb-1">Built-In Gashob</h5>
+                    <p class="card-text fw-bold font_color mb-2">Model RC:2828Q</p>
                     <div class="star-rating mb-2">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -63,7 +63,7 @@
         <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
             <div class="card h-100 shadow-sm rounded-lg">
                 <div class="product-image-container w-100" style="height: 180px;">
-                    <img src="https://placehold.co/800x600/ffd6a5/ffffff?text=Related+Prod4" alt="Related Product 4">
+                    <img  src="../pic/2838_1.png" alt="Related Product 4">
                 </div>
                 <div class="card-body text-center">
                     <h5 class="card-title fw-semibold text-truncate mb-1">Bangles</h5>

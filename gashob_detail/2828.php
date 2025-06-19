@@ -24,8 +24,8 @@
         <div class="row">
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
-                <div class="w-100 mb-4 product-image-container" style="height: 400px;">
-                    <img id="mainProductImage" src="../pic/2808Q-1.PNG" alt="Main Product Image">
+                <div class="w-100 mb-4 product-image-container" style="height: 360px;">
+                    <img id="mainProductImage" src="../pic/2828_2.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">
                             <i class="fas fa-chevron-left"></i>
@@ -38,13 +38,13 @@
                 <div class="d-flex flex-row flex-lg-column justify-content-center w-100 overflow-auto space-x-2 space-y-lg-2">
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
                         
-                        <img src="../pic/2808.png" alt="Thumbnail 1">
+                        <img src="../pic/2828_1.png" alt="Thumbnail 1">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
-                        <img src="../pic/2808Q-1.PNG" alt="Thumbnail 2">
+                        <img src="../pic/2828_2.png" alt="Thumbnail 2">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
-                        <img src="../pic/2808_2.png" alt="Thumbnail 3">
+                        <img src="../pic/2828_3.png" alt="Thumbnail 3">
                     </div>
                 </div>
             </div>
@@ -52,8 +52,8 @@
             <!-- Product Details -->
             <div class="col-12 col-lg-6">
                <img src="../img/logo.svg" alt="" style="width:20%;">
-                <h1 class="display-6 fw-bold text-dark mb-2">Built-In Gashob</h1>
-                <div class="d-flex align-items-center mb-3">
+                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Built-In Gashob</h1>
+                <div class="d-flex align-items-center mb-3 magin_left">
                     <div class="star-rating fs-5 me-2">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -66,23 +66,23 @@
                 </div>
                 <!-- <p class="h1 fw-bold text-dark mb-4">$25</p> -->
 
-                <div class="mb-3">
+                <div class="mb-3 magin_left">
                     <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : 2828Q</label>
                   <p class="fw-semibold mb-2">Product Detail</p>
                     <ul class="list-unstyled">
-                        <li><strong>PRODUCT DIMENSIONS:</strong> 410 X 720 mm</li>
-                        <li><strong>CUT-OUT DIMENSIONS:</strong> 350 X 650 mm</li>
+                        <li><strong>PRODUCT DIMENSIONS:</strong>( W x D x H ) 740 x 420 x 150 mm</li>
+                        <li><strong>CUT-OUT DIMENSIONS:</strong> ( W x D x H ) 650 x 350 mm</li>
                     </ul>
                     </div>
-                    <div class="d-flex align-items-center text-muted text-sm mb-4">
+                    <div class="d-flex align-items-center text-muted text-sm mb-4 magin_left">
                     <span class="me-4">Availability: <span class="fw-bold text-success"> in stock</span></span>
                 </div>
 
-                <div class="d-flex align-items-center mb-5">
+                <div class="d-flex align-items-center mb-5 magin_left">
                     <button class="btn fw-semibold py-2 px-4 rounded-md btn_shop text-white">Shop Now</button>
                 </div>
 
-                <div class="d-flex align-items-center text-muted text-sm">
+                <div class="d-flex align-items-center text-muted text-sm magin_left">
                     <span class="me-3">SHARE ON:</span>
                     <a href="#" class="me-2 text-muted hover-link"><i class="fab fa-facebook-f"></i></a>
                     <a href="#" class="me-2 text-muted hover-link"><i class="fab fa-twitter"></i></a>
@@ -113,10 +113,10 @@
                 <div class="col-lg-6">
                      <p class="fw-semibold mb-2">Products details:</p>
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Exclusively handmade</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Antique gold charms</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Semi precious round smooth gemstone</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>8mm beads</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Black Tempered Glass</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>2 Burners Power :  4.5KW X 2</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Larger Heat Area up to 55% Reduce Gas Consumpition</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Flame Failure Device With FFD</li>
                     </ul>
                 </div>
             </div>
@@ -170,9 +170,9 @@
 
         // Product images array (would be fetched from PHP backend)
         const productImages = [
-            "../pic/2808.png",
-            "../pic/2808Q-1.png",
-            "../pic/2808_2.png",
+            "../pic/2828_1.png",
+            "../pic/2828_2.png",
+            "../pic/2828_2.png",
         ];
         let currentImageIndex = 0;
 

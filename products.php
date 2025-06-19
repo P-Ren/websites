@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product & Category Page</title>
+    <title>Product & Category </title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://kit.fontawesome.com/47bc1c429d.js" crossorigin="anonymous"></script>
@@ -83,7 +83,7 @@
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDBA74/ffffff?text=Product+2" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/2818_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
                 <div class="flex items-center mb-3">

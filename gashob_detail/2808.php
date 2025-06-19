@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="style_detail.css">
 </head>
 <body class="p-4 p-md-5 p-lg-5">
-=
+
     <!-- Navbar -->
    <?php include "healder2.php"?>
     <!-- Top Slide Section - Kitchen Appliances -->
@@ -68,7 +68,7 @@
 
                 <div class="mb-3 magin_left">
                     <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : 2808Q</label>
-                  <p class="fw-semibold mb-2">Product Detail</p>
+                  <p class="fw-semibold mb-2">Dimensions</p>
                     <ul class="list-unstyled">
                         <li><strong>PRODUCT DIMENSIONS:</strong>( W x D x H ) 720 x 410 x 150 mm</li>
                         <li><strong>CUT-OUT DIMENSIONS:</strong> ( W x D x H ) 630 x 330 mm</li>
@@ -107,8 +107,7 @@
         <div class="tab-pane fade show active p-4 bg-white rounded-lg shadow-sm" id="description" role="tabpanel" aria-labelledby="description-tab">
             <div class="row">
                 <div class="col-lg-6">
-                    <p class="mb-3">Support AMA Animal Rescue by showing how much you love your pet with "I Love My Cat/Dog" charm bracelet. And remember, every purchase made
-                         off of the AMA SHOP goes directly to the medical expenses of our fur children.</p>    
+                    <p class="mb-3">  Upgrade your kitchen with our modern built-in gas hob, designed for both style and performance. Featuring a sleek tempered glass or stainless-steel surface, this hob blends seamlessly into your countertop for a clean, minimalist look.</p>    
                 </div>
                 <div class="col-lg-6">
                      <p class="fw-semibold mb-2">Products details:</p>
@@ -117,6 +116,7 @@
                         <li><i class="fas fa-check-circle text-success me-2"></i>2 Burners Power : 4.5KW X 2</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>Larger Heat Area up to 55% Reduce Gas Consumpition</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>Flame Failure Device With FFD</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>lgnition Battery</li>
                     </ul>
                 </div>
             </div>
