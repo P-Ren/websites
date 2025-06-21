@@ -70,35 +70,35 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/6001.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood, Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6006B</p>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6001B</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDBA74/ffffff?text=Product+2" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/6006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood, Premium Matte Black</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6001S</p>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6006B</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/93C5FD/ffffff?text=Product+3" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/7001_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">LPG (or Natural Gas with conversion kit).</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Stainless Steel 430</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
@@ -109,9 +109,9 @@
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDA47AF/ffffff?text=Product+4" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/7002_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Premium Matte Black </p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
@@ -122,9 +122,9 @@
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/818CF8/ffffff?text=Product+5" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/6008_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
@@ -135,9 +135,9 @@
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/C084FC/ffffff?text=Product+6" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/7003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Premium Matte Black.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
@@ -148,22 +148,22 @@
 
             <!-- Product Card 7 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FCA5A5/ffffff?text=Product+7" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/9006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Slim Hood,Premium Matte Black.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(250 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.7009S</p>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.9006B</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
 
             <!-- Product Card 8 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/7003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood, Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -172,18 +172,18 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/88_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood Curved Glass,Premium Matte Black</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.9299H(កោង)</p>
+                <p class="text-indigo-600 font-bold text-xl mb-4">RC.88H25AC90</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
-            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+            <!-- <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
                 <div class="flex items-center mb-3">
@@ -192,11 +192,11 @@
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.9299H</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
-            </div>
+            </div> -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/9777_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Stainless Steel 430 Black Fornt Glass</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -205,9 +205,9 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/969_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Stainless Steel 430 Black Fornt Glass</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -216,9 +216,9 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/9888_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2"> Size 900mm Cooker Hood ISLAND, Stainless Steel 430 Black Fornt Glass .</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -227,9 +227,9 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/new_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 350mm Cooker Hood ISLAND,Stainless Steel 430</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -238,9 +238,9 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/78_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Wall Monuntedm,Stainless Steel 430/Black Glass.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -249,9 +249,9 @@
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/79_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Wall Monuntedm,Stainless Steel 430/Black Glass</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
@@ -259,8 +259,8 @@
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.79H25AC90</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
             </div>
-            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+            <!-- <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
                 <div class="flex items-center mb-3">
@@ -269,11 +269,11 @@
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.88H25AC90</p>
                 <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
-            </div>
+            </div> -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/97_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">3Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Premium Matte Black</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>

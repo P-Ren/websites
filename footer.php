@@ -17,11 +17,8 @@
 
             <div class="box">
                 <h3>contact info</h3>
-                <a href="#">+(855)96-355-2354</a>
-                <a href="#">+(855)97-555-322</a>
-                <a href="#">+(855)68-323-582</a>
-                <a href="#">sounsaran4@gmail.com</a>
-                <a href="#">sounsaran2@gmail.com</a>
+                <a href="#">+(855)969 515 151</a>
+                <a href="#">Roncocambodia@gmail.com</a>
             </div>
 
             <div class="box">

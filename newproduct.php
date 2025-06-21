@@ -17,37 +17,44 @@
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img
-          src="https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80" />
+          src="img/pos_78H.png" />
         <div>
-          <h2>Grilled steak with vegetables</h2>
+          <h2>RANGE HOOD : 78H25AC90</h2>
         </div>
       </div>
       <div class="swiper-slide">
         <img
-          src="img/Poster1.png" />
+          src="img/pos_79H.png" />
         <div>
-          <h2>Pizza</h2>
+          <h2>RANGE HOOD : 798H25DC90</h2>
         </div>
       </div>
       <div class="swiper-slide">
         <img
-          src="img/Poster1.png" />
+          src="img/pos_97H.png" />
         <div>
-          <h2>Sandwich with boiled egg</h2>
+          <h2>RANGE HOOD : 78H25AC90</h2>
         </div>
       </div>
       <div class="swiper-slide">
         <img
-          src="https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=449&q=80" />
+          src="img/pos_88H.png" />
         <div>
-          <h2>Toast bread with blueberry</h2>
+          <h2>RANGE HOOD : 788H25BL90</h2>
         </div>
       </div>
       <div class="swiper-slide">
         <img
-          src="https://images.unsplash.com/photo-1481070555726-e2fe8357725c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80" />
+          src="img/pos_2882.png" />
         <div>
-          <h2>Chicken burger</h2>
+          <h2>GAS HOB : 2882Q</h2>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <img
+          src="img/pos_2872.png" />
+        <div>
+          <h2>GAS HOB : 2872Q</h2>
         </div>
       </div>
     </div>

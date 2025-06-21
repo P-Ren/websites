@@ -70,9 +70,9 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/822_1.png" alt="Product Image" class="w-full h-38 object-cover mb-3 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-2 line-clamp-2">Two Infrared Hob,Sensor Touch and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
@@ -83,9 +83,9 @@
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDBA74/ffffff?text=Product+2" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <img src="pic/855_1.png" alt="Product Image" class="w-full h-38 object-cover mb-5 rounded-lg">
+                <h3 class="font-semibold text-lg text-gray-800 mb-3">Cooker Hob</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">Two Infrared Hob,Sensor Touch and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
@@ -96,9 +96,9 @@
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/93C5FD/ffffff?text=Product+3" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/811_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">LPG (or Natural Gas with conversion kit).</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Two Induction Hob,Sensor Touch  and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
@@ -109,9 +109,9 @@
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDA47AF/ffffff?text=Product+4" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/877_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Two Induction Hob,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
@@ -122,9 +122,9 @@
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/818CF8/ffffff?text=Product+5" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/8322_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">3 Cooking Zones,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
@@ -135,9 +135,9 @@
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/C084FC/ffffff?text=Product+6" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/866_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2"> Infrared Hob Domino,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
