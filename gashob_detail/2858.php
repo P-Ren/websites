@@ -24,8 +24,8 @@
         <div class="row">
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
-                <div class="w-100 mb-4 product-image-container" style="height: 400px;">
-                    <img id="mainProductImage" src="../pic/2808Q-1.PNG" alt="Main Product Image">
+                <div class="w-100 mb-4 product-image-container" style="height: 360px;">
+                    <img id="mainProductImage" src="../pic/2858_1.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">
                             <i class="fas fa-chevron-left"></i>
@@ -38,13 +38,13 @@
                 <div class="d-flex flex-row flex-lg-column justify-content-center w-100 overflow-auto space-x-2 space-y-lg-2">
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
                         
-                        <img src="../pic/2808.png" alt="Thumbnail 1">
+                        <img src="../pic/2858_1.png" alt="Thumbnail 1">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
-                        <img src="../pic/2808Q-1.PNG" alt="Thumbnail 2">
+                        <img src="../pic/2858_2.png" alt="Thumbnail 2">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
-                        <img src="../pic/2808_2.png" alt="Thumbnail 3">
+                        <img src="../pic/2858_1.png" alt="Thumbnail 3">
                     </div>
                 </div>
             </div>
@@ -100,23 +100,27 @@
             <button class="nav-link active" id="description-tab" data-bs-toggle="tab" data-bs-target="#description" type="button" role="tab" aria-controls="description" aria-selected="true">Description</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab" aria-controls="reviews" aria-selected="false">Reviews (5)</button>
+            <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab" aria-controls="reviews" aria-selected="false">Reviews</button>
         </li>
     </ul>
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active p-4 bg-white rounded-lg shadow-sm" id="description" role="tabpanel" aria-labelledby="description-tab">
             <div class="row">
                 <div class="col-lg-6">
-                    <p class="mb-3">Support AMA Animal Rescue by showing how much you love your pet with "I Love My Cat/Dog" charm bracelet. And remember, every purchase made
-                         off of the AMA SHOP goes directly to the medical expenses of our fur children.</p>    
+                    <p class="fw-semibold mb-2">Products details:</p>
+                    <ul class="list-unstyled">
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Black Tempered Glass 8mm </li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Larger Heat Area up to 55% Reduce Gas Consumpition</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Cast lron Pan Support</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Flame Failure Device With FFD</li>
+                    </ul>
                 </div>
                 <div class="col-lg-6">
-                     <p class="fw-semibold mb-2">Products details:</p>
+                     <!-- <p class="fw-semibold mb-2">Products details:</p> -->
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Exclusively handmade</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Antique gold charms</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Semi precious round smooth gemstone</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>8mm beads</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>2 Burners Power : 4.5KW X 2</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Zinc Alloy Knob</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>lgnition Battery</li>
                     </ul>
                 </div>
             </div>
@@ -124,7 +128,7 @@
         <div class="tab-pane fade p-4 bg-white rounded-lg shadow-sm" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
             <h3 class="h5 mb-3">Customer Reviews</h3>
             <!-- Example Review -->
-            <div class="mb-4 pb-3 border-bottom">
+            <!-- <div class="mb-4 pb-3 border-bottom">
                 <div class="d-flex align-items-center mb-2">
                     <div class="star-rating me-2">
                         <i class="fas fa-star"></i>
@@ -136,7 +140,7 @@
                     <span class="text-muted small">By John Doe on 2023-04-15</span>
                 </div>
                 <p>"Absolutely love this bracelet! The charms are adorable and it feels very well made."</p>
-            </div>
+            </div> -->
             <!-- More reviews could go here -->
             <p class="text-muted">No more reviews to display.</p>
         </div>
@@ -170,9 +174,9 @@
 
         // Product images array (would be fetched from PHP backend)
         const productImages = [
-            "../pic/2808.png",
-            "../pic/2808Q-1.png",
-            "../pic/2808_2.png",
+            "../pic/2858_1.png",
+            "../pic/2858_2.png",
+            "../pic/2858_1.png",
         ];
         let currentImageIndex = 0;
 

@@ -25,7 +25,7 @@
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
                 <div class="w-100 mb-4 product-image-container" style="height: 400px;">
-                    <img id="mainProductImage" src="../pic/2808Q-1.PNG" alt="Main Product Image">
+                    <img id="mainProductImage" src="../pic/2838_1.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">
                             <i class="fas fa-chevron-left"></i>
@@ -38,13 +38,13 @@
                 <div class="d-flex flex-row flex-lg-column justify-content-center w-100 overflow-auto space-x-2 space-y-lg-2">
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
                         
-                        <img src="../pic/2808.png" alt="Thumbnail 1">
+                        <img src="../pic/2838_1.png" alt="Thumbnail 1">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
-                        <img src="../pic/2808Q-1.PNG" alt="Thumbnail 2">
+                        <img src="../pic/2838_2.png" alt="Thumbnail 2">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
-                        <img src="../pic/2808_2.png" alt="Thumbnail 3">
+                        <img src="../pic/2838_1.png" alt="Thumbnail 3">
                     </div>
                 </div>
             </div>
@@ -70,8 +70,8 @@
                     <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : 2838Q</label>
                   <p class="fw-semibold mb-2">Product Detail</p>
                     <ul class="list-unstyled">
-                        <li><strong>PRODUCT DIMENSIONS:</strong> 410 X 720 mm</li>
-                        <li><strong>CUT-OUT DIMENSIONS:</strong> 350 X 650 mm</li>
+                        <li><strong>PRODUCT DIMENSIONS:</strong>( W x D x H ) 740 x 420 x 150 mm</li>
+                        <li><strong>CUT-OUT DIMENSIONS:</strong>( W x D x H ) 650 x 350 mm</li>
                     </ul>
                     </div>
                     <div class="d-flex align-items-center text-muted text-sm mb-4">
@@ -106,17 +106,22 @@
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active p-4 bg-white rounded-lg shadow-sm" id="description" role="tabpanel" aria-labelledby="description-tab">
             <div class="row">
-                <div class="col-lg-6">
-                    <p class="mb-3">Support AMA Animal Rescue by showing how much you love your pet with "I Love My Cat/Dog" charm bracelet. And remember, every purchase made
-                         off of the AMA SHOP goes directly to the medical expenses of our fur children.</p>    
-                </div>
-                <div class="col-lg-6">
+                 <div class="col-lg-6">
                      <p class="fw-semibold mb-2">Products details:</p>
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Exclusively handmade</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Antique gold charms</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Semi precious round smooth gemstone</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>8mm beads</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Black Tempered Glass 8mm</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Larger Heat Area up to 55% Reduce Gas Consumpition</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Cast lron Pan Support</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>2 Burners Power : 5.0KW X 2</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    
+                    <ul class="list-unstyled">
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Left Timer Function 180 min</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Flame Failure Device With FFD</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Zinc Alloy Knob</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Stainless Steel Drip Pan</li>
                     </ul>
                 </div>
             </div>
@@ -170,9 +175,9 @@
 
         // Product images array (would be fetched from PHP backend)
         const productImages = [
-            "../pic/2808.png",
-            "../pic/2808Q-1.png",
-            "../pic/2808_2.png",
+            "../pic/2838_1.png",
+            "../pic/2838_2.png",
+            "../pic/2838_1.png",
         ];
         let currentImageIndex = 0;
 

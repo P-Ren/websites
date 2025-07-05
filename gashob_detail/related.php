@@ -63,11 +63,11 @@
         <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
             <div class="card h-100 shadow-sm rounded-lg">
                 <div class="product-image-container w-100" style="height: 180px;">
-                    <img  src="../pic/2838_1.png" alt="Related Product 4">
+                     <a href="2838.php"><img src="../pic/2838_1.png" alt="Related Product 4"></a>
                 </div>
                 <div class="card-body text-center">
-                    <h5 class="card-title fw-semibold text-truncate mb-1">Bangles</h5>
-                    <p class="card-text fw-bold text-dark mb-2">$79+</p>
+                    <h5 class="card-title fw-semibold text-truncate mb-1">Built-In Gashob</h5>
+                    <p class="card-text fw-bold font_color mb-2">Model RC:2838Q</p>
                     <div class="star-rating mb-2">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>

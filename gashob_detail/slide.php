@@ -7,21 +7,21 @@
             </div>
             <div class="carousel-inner rounded-lg shadow-sm">
                 <div class="carousel-item active">
-                    <img src="https://placehold.co/1200x300/a0c4ff/ffffff?text=Modern+Blender" class="d-block w-100" alt="Modern Blender">
+                    <img src="../img/b1.png" class="d-block w-100" alt="Modern Blender">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>High-Performance Blenders</h5>
                         <p>Blend your way to healthy living.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://placehold.co/1200x300/caffbf/ffffff?text=Smart+Coffee+Maker" class="d-block w-100" alt="Smart Coffee Maker">
+                    <img src="../img/b2.png" class="d-block w-100" alt="Smart Coffee Maker">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Smart Coffee Makers</h5>
                         <p>Your perfect brew, every morning.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://placehold.co/1200x300/ffadad/ffffff?text=Gourmet+Toaster" class="d-block w-100" alt="Gourmet Toaster">
+                    <img src="../img/b3.png" class="d-block w-100" alt="Gourmet Toaster">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Gourmet Toasters</h5>
                         <p>Crispy and golden, just how you like it.</p>
