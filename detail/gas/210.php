@@ -10,22 +10,27 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- Google Fonts - Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style_detail.css">
+    <style>
+         .font_color3{
+             color: rgb(255, 115, 0);
+        }
+    </style>
+    <link rel="stylesheet" href="../style_detail.css">
 </head>
 <body class="p-4 p-md-5 p-lg-5">
-=
+
     <!-- Navbar -->
-   <?php include "healder2.php"?>
+   <?php include "../healder2.php"?>
     <!-- Top Slide Section - Kitchen Appliances -->
-   <?php include "slide.php"?>
+   <?php include "../slide.php"?>
 
     <!-- Product Detail Section -->
     <div class="card shadow-lg mb-5 rounded-lg p-4 p-lg-7">
         <div class="row">
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
-                <div class="w-full h-45 mb-4 product-image-container">
-                    <img id="mainProductImage" src="../pic/4888_1.png" alt="Main Product Image">
+                <div class="w-full h-45 product-image-container" >
+                    <img id="mainProductImage" src="../../pic/208.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">
                             <i class="fas fa-chevron-left"></i>
@@ -36,23 +41,23 @@
                     </div>
                 </div>
                 <div class="d-flex flex-row flex-lg-column justify-content-center w-100 overflow-auto space-x-2 space-y-lg-2">
-                    <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
+                    <div class="product-image-container flex-shrink-0 cursor-pointer mt-2" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
                         
-                        <img src="../pic/4888_1.png" alt="Thumbnail 1">
+                        <img src="../../pic/210.png" alt="Thumbnail 1">
                     </div>
-                    <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
-                        <img src="../pic/4888_2.png" alt="Thumbnail 2">
-                    </div>
-                    <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
-                        <img src="../pic/4888_3.png" alt="Thumbnail 3">
-                    </div>
+                    <!-- <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
+                        <img src="../../pic/208.png" alt="Thumbnail 2">
+                    </div> -->
+                    <!-- <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
+                        <img src="../../pic/2808_3.png" alt="Thumbnail 3">
+                    </div> -->
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-12 col-lg-6">
                <img src="../img/logo.svg" alt="" style="width:20%;">
-                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Built-In Gashob</h1>
+                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Gas Stove</h1>
                 <div class="d-flex align-items-center mb-3 magin_left">
                     <div class="star-rating fs-5 me-2">
                         <i class="fas fa-star"></i>
@@ -62,16 +67,16 @@
                         <i class="fas fa-star-half-alt"></i>
                     </div>
                     <!-- Updated: "5 reviews" is now a clickable link to the reviews tab -->
-                    <a href="#reviews" class="text-muted text-decoration-none" data-bs-toggle="tab" role="tab" aria-controls="reviews">5 reviews</a>
+                    <!-- <a href="#reviews" class="text-muted text-decoration-none" data-bs-toggle="tab" role="tab" aria-controls="reviews">5 reviews</a> -->
                 </div>
                 <!-- <p class="h1 fw-bold text-dark mb-4">$25</p> -->
 
                 <div class="mb-3 magin_left">
-                    <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : RC.4888Q</label>
-                  <p class="fw-semibold mb-2">Product Detail</p>
+                    <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : 210M</label>
+                  <p class="fw-semibold mb-2">Dimensions</p>
                     <ul class="list-unstyled">
-                        <li><strong>PRODUCT DIMENSIONS:</strong>( W x D x H ) 800 x 460 x 150 mm</li>
-                        <li><strong>CUT-OUT DIMENSIONS:</strong> ( W x D x H ) 680 x 380 mm</li>
+                        <li><strong>PRODUCT DIMENSION:</strong>( W x D x H ) 720 x 380 x 85 mm</li>
+                        <!-- <li><strong>CUT-OUT DIMENSIONS:</strong> ( W x D x H ) 630 x 330 mm</li> -->
                     </ul>
                     </div>
                     <div class="d-flex align-items-center text-muted text-sm mb-4 magin_left">
@@ -99,56 +104,39 @@
         <li class="nav-item" role="presentation">
             <button class="nav-link active" id="description-tab" data-bs-toggle="tab" data-bs-target="#description" type="button" role="tab" aria-controls="description" aria-selected="true">Description</button>
         </li>
-        <li class="nav-item" role="presentation">
-            <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab" aria-controls="reviews" aria-selected="false">Reviews</button>
-        </li>
     </ul>
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active p-4 bg-white rounded-lg shadow-sm" id="description" role="tabpanel" aria-labelledby="description-tab">
             <div class="row">
                 <div class="col-lg-6">
-                     <p class="fw-semibold mb-2">Products details:</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Black Tempered Glass and SUS 304</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Larger Heat Area up to 55% Reduce Gas Consumpition</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Cast lron Pan Support</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Full Brass Burner</li>
-                    </ul>
+                     <ul class="list-unstyled">
+                        <p class="fw-semibold mb-2">DESCRIPTION:</p>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Stainless Steel Panel Body</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Burner Size : 130mm + 130mm Cast Iron Burner With Pin Fix</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Burner Power : 4.2KW x 4.2KW</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Gas Pipe : 11.5mm Diameter Gas Pipe With L Connector</li>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>4 Burners Power : 5.0KW X 2 + 2.0KW + 1.5KW</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Flame Failure Device With FFD</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Zinc Alloy Knob</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>lgnition Battery</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>PP Material Knob</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Automatic Piezo lgnition</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Safe and Easy To Clean</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="tab-pane fade p-4 bg-white rounded-lg shadow-sm" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-            <h3 class="h5 mb-3">Customer Reviews</h3>
+            <!-- <h3 class="h5 mb-3">Customer Reviews</h3> -->
             <!-- Example Review -->
-            <!-- <div class="mb-4 pb-3 border-bottom">
-                <div class="d-flex align-items-center mb-2">
-                    <div class="star-rating me-2">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <span class="text-muted small">By John Doe on 2023-04-15</span>
-                </div>
-                <p>"Absolutely love this bracelet! The charms are adorable and it feels very well made."</p>
             </div> -->
             <!-- More reviews could go here -->
             <p class="text-muted">No more reviews to display.</p>
         </div>
     </div>
     <!-- You May Also Like Section -->
-   <?php include "related.php"?>
+   <?php include "../related.php"?>
     <!-- Main Banner Section -->
-   <?php include "footer2.php"?>
+   <?php include "../footer2.php"?>
     <!-- Bootstrap JS and Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
@@ -174,9 +162,9 @@
 
         // Product images array (would be fetched from PHP backend)
         const productImages = [
-            "../pic/4888_1.png",
-            "../pic/4888_2.png",
-            "../pic/4888_3.png",
+            "../../pic/210.png",
+            // "../../pic/208.png",
+            // "../../pic/2808_3.png",
         ];
         let currentImageIndex = 0;
 

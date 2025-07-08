@@ -17,9 +17,10 @@
 
             <div class="box">
                 <h3>contact info</h3>
-                <a href="#">+(855)969 515 151</a>
-                <a href="#">Roncocambodia@gmail.com</a>
-            </div>
+                <p><a href="tel:+0969515151" class="text-decoration-none text-muted">(+855) 969 515 151</a></p>
+                <p><a href="mailto:Roncocambodia@gmail.com" class="text-decoration-none text-muted">Roncocambodia@gmail.com</a></p>
+                <!-- <a href="#">Roncocambodia@gmail.com</a>
+            </div> -->
 
             <div class="box">
                 <h3>Contact us</h3>
@@ -29,5 +30,5 @@
             </div>
         </div>
 
-        <div class="credit"> copyright &copy; 2025 by <span>mr.RZZ</span></div>
+        <div class="credit"> copyright &copy; Ronco Company</span></div>
     </section>

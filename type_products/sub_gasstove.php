@@ -70,54 +70,62 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/204.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/gas/204.php"><img src="pic/204.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Gas Stove</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 100mm + 120mm Cast Iron Burner With Pin Fix.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.204M</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">View Details</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.204M</p>
+                <a class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80" href="./detail/gas/204.php">
+                    <button>View Details</button>
+                </a>
             </div>
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/206.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/gas/206.php"><img src="pic/206.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Gas Stove</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 100mm + 100mm Cast ironBurner With Pin Fix.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 100mm + 120mm Cast Iron Burner With Pin Fix.</p>
                 <div class="flex items-center mb-3">
-                    <span class="text-yellow-400">★★★★★</span>
-                    <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
+                    <span class="text-yellow-400">★★★★☆</span>
+                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.206M</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">View Details</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.206M</p>
+                <a class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80" href="./detail/gas/206.php">
+                    <button>View Details</button>
+                </a>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/208.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/gas/208.php"><img src="pic/208.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Gas Stove</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 150mm + 150mm Infrared Burner With Pin Fix.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 100mm + 120mm Cast Iron Burner With Pin Fix.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
-                    <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
+                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.208M</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">View Details</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.208M</p>
+                <a class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80" href="./detail/gas/208.php">
+                    <button>View Details</button>
+                </a>
             </div>
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/210.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/gas/210.php"><img src="pic/210.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Gas Stove</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 130mm + 130mm Cast Iron Burner With Pin Fix</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Burner Size : 100mm + 120mm Cast Iron Burner With Pin Fix.</p>
                 <div class="flex items-center mb-3">
-                    <span class="text-yellow-400">★★★★★</span>
-                    <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
+                    <span class="text-yellow-400">★★★★☆</span>
+                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.210M</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">View Details</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.210M</p>
+                <a class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80" href="./detail/gas/210.php">
+                    <button>View Details</button>
+                </a>
             </div>
         </main>
     </div>

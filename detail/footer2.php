@@ -1,5 +1,5 @@
  <div class="banner mt-5 mb-5">
-        <img src="../img/b4.png" alt="Special Offer Banner" class="banner-image">
+        <img src="../../img/b4.png" alt="Special Offer Banner" class="banner-image">
         <h3 class="h4 fw-bold mb-3">Limited Time Offer!</h3>
         <p class="lead mb-4">Get 20% off all jewelry for a limited time. Don't miss out!</p>
         <!-- <button class="btn btn-primary btn-lg rounded-pill">Shop Now</button> -->

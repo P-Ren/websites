@@ -69,71 +69,70 @@
         <!-- Product Grid -->
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
-            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/A78BFA/ffffff?text=Product+1" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Oven</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
-                <div class="flex items-center mb-3">
-                    <span class="text-yellow-400">★★★★☆</span>
-                    <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
-                </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.7080L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
-            </div>
-
-            <!-- Product Card 2 -->
-            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDBA74/ffffff?text=Product+2" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <a href="./detail/Oven/oven.php"><img src="pic/7080_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">New_Oven</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Stainless Steel Black Glass.Oven Capacity : 70L</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">New</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">Model : RC.7080L</p>
+                <a href="./detail/Oven/oven.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
+            </div>
+
+            <!-- Product Card 2 -->
+            <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
+                <a href=""><img src="pic/7070_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built_Oven</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">Multi-Function Oven.Oven Capacity : 65L</p>
+                <div class="flex items-center mb-3">
+                    <span class="text-yellow-400">★★★★★</span>
+                    <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
+                </div>
+                <p class="text-cyan-500 font-bold text-xl mb-4">Model : New_Oven</p>
+                <button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/93C5FD/ffffff?text=Product+3" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Oven</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">LPG (or Natural Gas with conversion kit).</p>
+                <a href=""><img src="pic/7090_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <h3 class="font-semibold text-lg text-gray-800 mb-2">New_Oven</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">Multi-Function Oven.Oven Capacity : 65L</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">New</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">Model : New</p>
+                <button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/FDA47AF/ffffff?text=Product+4" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/Oven/oven.php"><img src="pic/2505_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Microwave</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Buit-in Microwave With Girll.Capacity : 25L</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.2505L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">Model : RC.2505L</p>
+                <a href="./detail/Oven/microwave.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="https://placehold.co/300x200/818CF8/ffffff?text=Product+5" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <a href="./detail/Oven/diswasher.php"><img src="pic/6066_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Diswasher</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Built-in Diswasher, Time Delay : 24h</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6066L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">Model : RC.6066L</p>
+                <a href="./detail/Oven/diswasher.php" class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><button >View More</button></a>
             </div>
         </main>
     </div>
 </body>
-
 </html>

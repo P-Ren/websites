@@ -109,14 +109,11 @@ body {
         color: rgb(0, 172, 60);
         }
         .font_color{
-            color: rgb(255, 153, 0);
+            color: rgb(255, 142, 49);
         }
-        .font_color2{
-            color: rgb(117, 32, 1);
-        }
-        .btn_shop{
+        /* .btn_shop{
             background-color: #0091ff;
-        }
+        } */
         .magin_left{
             margin-left: 25px;
             

@@ -70,80 +70,80 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/822_1.png" alt="Product Image" class="w-full h-38 object-cover mb-3 rounded-lg">
+                <a href="./detail/hob/822.php"><img src="pic/822_1.png" alt="Product Image" class="w-full h-38 object-cover mb-3 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-2 line-clamp-2">Two Infrared Hob,Sensor Touch and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.822G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.822G</p>
+                <a href="./detail/hob/822.php" class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><button>View More</button></a>
             </div>
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/855_1.png" alt="Product Image" class="w-full h-38 object-cover mb-5 rounded-lg">
+                <a href="./detail/hob/855.php"><img src="pic/855_1.png" alt="Product Image" class="w-full h-38 object-cover mb-5 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-3">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Two Infrared Hob,Sensor Touch and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.855G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-2">RC.855G</p>
+                <a href="./detail/hob/855.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/811_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/811.php"><img src="pic/811_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Two Induction Hob,Sensor Touch  and Sliding Control</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RM.811</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RM.811</p>
+                <a href="./detail/hob/811.php" class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80 "><button >View More</button></a>
             </div>
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/877_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/877.php"><img src="pic/877_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Two Induction Hob,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.877G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.877G</p>
+                <a href="./detail/hob/877.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/8322_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/8322.php"><img src="pic/8322_1.png" alt="Product Image" class="w-80 h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">3 Cooking Zones,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.8322G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.8322G</p>
+                <a href="./detail/hob/8322.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/866_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/866.php"><img src="pic/866_1.png" alt="Product Image" class="w-80 h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2"> Infrared Hob Domino,Sensor Touch  Control.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.866G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-cyan-400 font-bold text-xl mb-4">RC.866G</p>
+                <a href="./detail/hob/866.php"><button class="bg-orange-400 text-white px-3 py-5 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             

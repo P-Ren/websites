@@ -72,7 +72,7 @@
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <a href="gashob_detail/2808.php"><img src="pic/2808_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass,Stainless Steel.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
@@ -83,33 +83,33 @@
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/2818_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass, Stainless Steel.</p>
+                <a href="gashob_detail/2818.php"><img src="pic/2818_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <h3 class="font-semibold text-lg text-gray-800 mb-2 mt-5">Built-In Gashob</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">2Burners Tempered Glass,Stainless Steel.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2818Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"><a href="gashob_detail/2818.php">View More</a></button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80"><a href="gashob_detail/2818.php">View More</a></button>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/2828_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Built-In Gashob</h3>
+                <a href="gashob_detail/2828.php"><img src="pic/2828_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <h3 class="font-semibold text-lg text-gray-800 mb-2 mt-5">Built-In Gashob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">LPG (or Natural Gas with conversion kit).</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2828Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full"><a href="gashob_detail/2828.php">View More</a></button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80"><a href="gashob_detail/2828.php">View More</a></button>
             </div>
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/822_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/822_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Booster Fuction  Saving 35% Of Power Consumption.</p>
                 <div class="flex items-center mb-3">
@@ -117,12 +117,12 @@
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.822G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/8322_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/8322_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Booster Fuction  Saving 35% Of Power Consumption.</p>
                 <div class="flex items-center mb-3">
@@ -130,25 +130,25 @@
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.8322G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/6001.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/6001.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">Size 6000mm Slim Hood, Stainless Steel 430.</p>
+                <p class="text-gray-600 mb-3 line-clamp-2">Size 6000mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.6001B</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 7 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/7001_1.png" alt="Product Image" class="w-full h-36 object-cover mb-4 rounded-lg">
+                <img src="pic/7001_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -156,23 +156,23 @@
                     <span class="text-gray-500 text-sm ml-2">(250 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.7001S</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 8 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/9888_1.png" alt="Product Image" class="w-full h-40 object-cover mb-5 rounded-lg">
-                <h3 class="font-semibold text-lg text-gray-800 mb-5">Cooker Hood</h3>
-                <p class="text-gray-600 mb-3 line-clamp-2">900mm Cooker Hood ISLAND</p>
+                <img src="pic/9888_1.png" alt="Product Image" class="w-full h-42 object-cover mb-5 rounded-lg">
+                <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
+                <p class="text-gray-600 mb-3 line-clamp-2">900mm Cooker Hood ISLAND,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.9888H</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <p class="text-indigo-600 font-bold text-xl mb-3">RC.9888H</p>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/79H_1.png" alt="Product Image" class="w-full h-40 object-cover mb-3 rounded-lg">
+                <img src="pic/79H_1.png" alt="Product Image" class="w-full h-42 object-cover mb-3 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">RANGE HOOD</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Material : Stainless Steel 430/Black Glass.</p>
                 <div class="flex items-center mb-3">
@@ -180,10 +180,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.79H25DC90</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/6066_1.png" alt="Product Image" class="w-full h-40 object-cover mb-4 rounded-lg">
+                <img src="pic/6066_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Diswasher</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2"> Built-in Diswasher, Stainless Steel</p>
                 <div class="flex items-center mb-3">
@@ -191,10 +191,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.6066L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/2505_1.png" alt="Product Image" class="w-full h-40 object-cover mb-4 rounded-lg">
+                <img src="pic/2505_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Microwave</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Buit-in Microwave With Girll, Capacity : 25L</p>
                 <div class="flex items-center mb-3">
@@ -202,10 +202,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.2505L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-               <img src="pic/7080_1.png" alt="Product Image" class="w-full h-40 object-cover mb-4 rounded-lg">
+               <img src="pic/7080_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Oven</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Stainless Steel Black Glass, Capacity : 70L</p>
                 <div class="flex items-center mb-3">
@@ -213,7 +213,7 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-indigo-600 font-bold text-xl mb-4">RC.7080L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-full">Add to Cart</button>
+                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
             </div>
         </main>
     </div>

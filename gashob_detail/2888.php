@@ -24,7 +24,7 @@
         <div class="row">
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
-                <div class="w-100 mb-4 product-image-container" style="height: 400px;">
+                <div class="w-full h-45 mb-4 product-image-container">
                     <img id="mainProductImage" src="../pic/2888_1.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">

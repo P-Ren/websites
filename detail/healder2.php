@@ -9,22 +9,22 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                 <ul class="navbar-nav tag">
                     <li class="nav-item magin">
-                        <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
+                        <a class="nav-link active" aria-current="page" href="../../index.php">Home</a>
                     </li>
                     <li class="nav-item magin">
-                        <a class="nav-link" href="../Gashob.php">Gas Hob</a>
+                        <a class="nav-link" href="../../Gashob.php">GasHob</a>
                     </li>
                     <li class="nav-item magin">
-                        <a class="nav-link" href="../Gas_stove.php">GasStove</a>
+                        <a class="nav-link" href="../../Gas_stove.php">GasStove</a>
                     </li>
                     <li class="nav-item magin">
-                        <a class="nav-link" href="../Hob.php">Cooker Hob</a>
-                    </li>
-                       <li class="nav-item magin">
-                        <a class="nav-link" href="../Oven.php">Oven & Microwave</a>
+                        <a class="nav-link" href="../../Hob.php">Cooker Hob</a>
                     </li>
                     <li class="nav-item magin">
-                        <a class="nav-link" href="../Hood.php">Hood</a>
+                        <a class="nav-link" href="../../Oven.php">Oven & Microwave</a>
+                    </li>
+                    <li class="nav-item magin">
+                        <a class="nav-link" href="../../Hood.php">Hood</a>
                     </li>
                     <li class="nav-item magin">
                         <a class="nav-link" href="#">Contact</a>
