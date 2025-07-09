@@ -13,6 +13,7 @@
     <style>
          .font_color3{
              color: rgb(255, 115, 0);
+             
         }
     </style>
     <link rel="stylesheet" href="../style_detail.css">

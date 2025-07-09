@@ -78,6 +78,24 @@
                 </div>
             </div>
         </div>
+        <div class="col-6 col-md-4 col-lg-3 mb-4 flex-shrink-0">
+            <div class="card h-100 shadow-sm rounded-lg">
+                <div class="product-image-container w-100" style="height: 180px;">
+                     <a href="../hood/6006.php"><img src="../../pic/6006_1.png" alt="Related Product 5"></a>
+                </div>
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-semibold text-truncate mb-1">Cooker Hood</h5>
+                    <p class="card-text fw-bold font_color3 mb-2">Model RC:6006B</p>
+                    <div class="star-rating mb-2">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Add more product cards as needed -->
 
         <!-- <button class="scroll-button position-absolute end-0 top-50 translate-middle-y z-3" onclick="scrollProducts(1)">

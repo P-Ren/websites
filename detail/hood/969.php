@@ -6,7 +6,7 @@
     <title>Product Detail</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome for icons -->
+    <!-- Font Awesome for icons --> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- Google Fonts - Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
             <!-- Product Image Gallery -->
             <div class="col-12 col-lg-6 d-flex flex-column align-items-center mb-4 mb-lg-0 position-relative">
                 <div class="w-full h-45 product-image-container" >
-                    <img id="mainProductImage" src="../../pic/9006_1.png" alt="Main Product Image">
+                    <img id="mainProductImage" src="../../pic/969_1.png" alt="Main Product Image">
                     <div class="product-image-controls">
                         <button class="btn btn-sm btn-light rounded-circle" onclick="changeProductImage(-1)">
                             <i class="fas fa-chevron-left"></i>
@@ -43,13 +43,13 @@
                 <div class="d-flex flex-row flex-lg-column justify-content-center w-100 overflow-auto space-x-2 space-y-lg-2">
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px; margin-left: 2rem;" onclick="setMainImage(0)">
                         
-                        <img src="../../pic/9006_1.png" alt="Thumbnail 1">
+                        <img src="../../pic/969_1.png" alt="Thumbnail 1">
                     </div>
                     <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(1)">
-                        <img src="../../pic/9006_2.png" alt="Thumbnail 2">
+                        <img src="../../pic/969_2.png" alt="Thumbnail 2">
                     </div>
                     <!-- <div class="product-image-container flex-shrink-0 cursor-pointer" style="width: 80px; height: 80px;  margin-left: 2rem;" onclick="setMainImage(2)">
-                        <img src="../../pic/9006_3.png" alt="Thumbnail 3">
+                        <img src="../../pic/969_3.png" alt="Thumbnail 3">
                     </div> -->
                 </div>
             </div>
@@ -57,15 +57,14 @@
             <!-- Product Details -->
             <div class="col-12 col-lg-6">
                <img src="../img/logo.svg" alt="" style="width:20%;">
-                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Cooker Hood</h1>
+                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Built-in Diswasher</h1>
                 <div class="d-flex align-items-center mb-3 magin_left">
                     <div class="star-rating fs-5 me-2">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <!-- <i class="fas fa-star-half-alt"></i> -->
+                        <i class="fas fa-star-half-alt"></i>
                     </div>
                     <!-- Updated: "5 reviews" is now a clickable link to the reviews tab -->
                     <!-- <a href="#reviews" class="text-muted text-decoration-none" data-bs-toggle="tab" role="tab" aria-controls="reviews">5 reviews</a> -->
@@ -73,10 +72,10 @@
                 <!-- <p class="h1 fw-bold text-dark mb-4">$25</p> -->
 
                 <div class="mb-3 magin_left">
-                    <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : RC.9006B</label>
+                    <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : RC.969H</label>
                   <p class="fw-semibold mb-2">Dimensions</p>
                     <ul class="list-unstyled">
-                        <li><strong>PRODUCT DIMENSIONS : </strong>( D x W x H )  900 x 490 x 140 mm</li>
+                        <li><strong>PRODUCT DIMENSIONS : </strong>( D x W x H )  900 x 485 x 990 mm</li>
                         <li><strong>SUCTION POWER MAX : </strong><span class="fw-bold font_color"> 1000 (m3/h)</span></li>
                     </ul>
                     </div>
@@ -112,16 +111,16 @@
                 <div class="col-lg-6">
                     <p class="fw-semibold mb-2">Products details:</p>
                      <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Size 900mm Slim Hood</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Premium Matte Black</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Switch : Touch Control 3 Speeds Waving Sensor</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Filter : 3 x 5 Layer Alumium Filter</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Lighting : 2 x 1.5W LED</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Size 900mm Cooker Hood </li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Stainless Steel 430 Black Fornt Glass</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Switch : Touch Control 3 Speeds</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Filter : Baffle Filter</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Lighting : 2 x 2W  LED</li>
                 </div>
-                <div class="col-lg-6"> 
+                <div class="col-lg-6">
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Power Motor : 2 x 100W Copper Motor</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Air Outlet : 120mm + 1.5m Alumium Pipe</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Power Motor : 1 x 204W Copper Motor</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Air Outlet : 160mm + 1.5m Alumium Pipe</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>With 2 Charcoal Filter</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>Voltage : 220V - 240V</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>Frequency : 50 Hz</li>
@@ -130,12 +129,7 @@
             </div>
         </div>
         <div class="tab-pane fade p-4 bg-white rounded-lg shadow-sm" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-            <!-- <h3 class="h5 mb-3">Customer Reviews</h3> -->
-            <!-- Example Review -->
           
-            <!-- More reviews could go here -->
-            <!-- <p class="text-muted">No more reviews to display.</p> -->
-        </div>
     </div>
     <!-- You May Also Like Section -->
    <?php include "../related.php"?>
@@ -166,9 +160,9 @@
 
         // Product images array (would be fetched from PHP backend)
         const productImages = [
-            "../../pic/9006_1.png",
-            "../../pic/9006_2.png",
-            // "../../pic/9006_3.png",
+            "../../pic/969_1.png",
+            "../../pic/969_2.png",
+            // "../../pic/969_3.png",
         ];
         let currentImageIndex = 0;
 

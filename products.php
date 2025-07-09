@@ -77,8 +77,8 @@
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.2808Q</p>
-               <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80"> <a href="gashob_detail/2808.php">View More</a></button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.2808Q</p>
+               <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"> <a href="gashob_detail/2808.php">View More</a></button>
             </div>
 
             <!-- Product Card 2 -->
@@ -90,8 +90,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.2818Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80"><a href="gashob_detail/2818.php">View More</a></button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.2818Q</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><a href="gashob_detail/2818.php">View More</a></button>
             </div>
 
             <!-- Product Card 3 -->
@@ -103,8 +103,8 @@
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.2828Q</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80"><a href="gashob_detail/2828.php">View More</a></button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.2828Q</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><a href="gashob_detail/2828.php">View More</a></button>
             </div>
 
             <!-- Product Card 4 -->
@@ -116,8 +116,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.822G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.822G</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 5 -->
@@ -129,8 +129,8 @@
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.8322G</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.8322G</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 6 -->
@@ -142,8 +142,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6001B</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.6001B</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 7 -->
@@ -155,8 +155,8 @@
                     <span class="text-yellow-400">★★★★☆</span>
                     <span class="text-gray-500 text-sm ml-2">(250 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.7001S</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.7001S</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
 
             <!-- Product Card 8 -->
@@ -168,8 +168,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-3">RC.9888H</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-3">RC.9888H</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="pic/79H_1.png" alt="Product Image" class="w-full h-42 object-cover mb-3 rounded-lg">
@@ -179,8 +179,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.79H25DC90</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.79H25DC90</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="pic/6066_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
@@ -190,8 +190,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.6066L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.6066L</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="pic/2505_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
@@ -201,8 +201,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.2505L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.2505L</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                <img src="pic/7080_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
@@ -212,8 +212,8 @@
                     <span class="text-yellow-400">★★★★★</span>
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
-                <p class="text-indigo-600 font-bold text-xl mb-4">RC.7080L</p>
-                <button class="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition-colors duration-200 w-80">View More</button>
+                <p class="text-cyan-500 font-bold text-xl mb-4">RC.7080L</p>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
         </main>
     </div>

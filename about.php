@@ -4,13 +4,13 @@
 
         <div class="row">
             <div class="image">
-                <img src="img/hood2.png" alt="">
+                <img src="img/hood3.png" alt="">
             </div>
 
             <div class="content">
                 <h3>Best Kitchen Appliances </h3>
                 <p>We carefully select and offer only the best, most reliable kitchen appliances from leading global brands — so you get performance you can count on.</p>
-                <p>Thousands of happy customers trust us. We’re committed to your satisfaction — with a no-hassle return policy and excellent after-sales service.!</p>
+                <p>Thousands of happy customers trust us. We're committed to your satisfaction — with a no-hassle return policy and excellent after-sales service.!</p>
                 <div class="icons-container">
                     <div class="icons">
                         <i class="fas fa-shipping-fast"></i>

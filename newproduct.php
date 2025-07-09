@@ -13,7 +13,7 @@
   <!-- Swiper -->
   <div class="swiper mySwiper" id="review">
      <h3 class="sub-heading">New Products</h3>
-    <h1 class="heading"> what they say</h1>
+    <h1 class="heading"> New Model 2025</h1>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img

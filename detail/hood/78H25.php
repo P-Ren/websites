@@ -6,7 +6,7 @@
     <title>Product Detail</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome for icons -->
+    <!-- Font Awesome for icons --> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- Google Fonts - Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -57,7 +57,7 @@
             <!-- Product Details -->
             <div class="col-12 col-lg-6">
                <img src="../img/logo.svg" alt="" style="width:20%;">
-                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Built-in Diswasher</h1>
+                <h1 class="display-6 fw-bold text-dark mb-2 magin_left">Cooker Hood</h1>
                 <div class="d-flex align-items-center mb-3 magin_left">
                     <div class="star-rating fs-5 me-2">
                         <i class="fas fa-star"></i>
@@ -75,8 +75,8 @@
                     <label for="animal" class="form-label fw-semibold mb-1 font_color2">MODEL : RC.78H25AC90</label>
                   <p class="fw-semibold mb-2">Dimensions</p>
                     <ul class="list-unstyled">
-                        <li><strong>PRODUCT DIMENSIONS : </strong>( D x W x H ) 600 x 600x 850 mm</li>
-                        <!-- <li><strong>CUT-OUT DIMENSIONS : </strong>( W x D ) 730 x 420 mm</li> -->
+                        <li><strong>PRODUCT DIMENSIONS : </strong>( D x W x H )  900 x 410 x 545 mm</li>
+                        <li><strong>SUCTION POWER MAX : </strong><span class="fw-bold font_color"> 1320 (m3/h)</span></li>
                     </ul>
                     </div>
                     <div class="d-flex align-items-center text-muted text-sm mb-4 magin_left">
@@ -111,45 +111,26 @@
                 <div class="col-lg-6">
                     <p class="fw-semibold mb-2">Products details:</p>
                      <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Stainless Steel</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Standard Place Settings : 12</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Time Delay : 24h</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Upper Basket Adjustable</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Drying Method </li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Number of Programmes : 6</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>List of Programmes : Intensive / Eco / Light / 1h.60min / Repid / Pre-Rinse</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Size 900mm Wall Monunted</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Material : Stainless Steel 430/Black Glass</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Chimney : Black Nano Coating</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Switch : Touch Control 4 Speeds , Waving Sensor</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Filter : Baffle Desing</li>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Maximum Wash Temperature : 62°c</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Noise Level : 49dB</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Energy Efficiency Class : A++</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Annual Energy Consumption : 3080L</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Lighting : 1 x 3W LED</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Clean Type : 70C High Temperarture Hot Cleaning</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Power Motor : 1 x 350W  Copper Motor</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i> Air Outlet : 180mm + 1.5m Alumium Pipe</li>
                         <li><i class="fas fa-check-circle text-success me-2"></i>Voltage : 220V - 240V</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i>Frequency : 50 - 60 Hz</li>
+                        <li><i class="fas fa-check-circle text-success me-2"></i>Frequency : 50 Hz</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="tab-pane fade p-4 bg-white rounded-lg shadow-sm" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-            <!-- <h3 class="h5 mb-3">Customer Reviews</h3> -->
-            <!-- Example Review -->
-            <!-- <div class="mb-4 pb-3 border-bottom">
-                <div class="d-flex align-items-center mb-2">
-                    <div class="star-rating me-2">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <span class="text-muted small">By John Doe on 2023-04-15</span>
-                </div>
-                <p>"Absolutely love this bracelet! The charms are adorable and it feels very well made."</p>
-            </div> -->
-            <!-- More reviews could go here -->
-            <p class="text-muted">No more reviews to display.</p>
-        </div>
+          
     </div>
     <!-- You May Also Like Section -->
    <?php include "../related.php"?>

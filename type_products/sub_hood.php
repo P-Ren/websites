@@ -70,7 +70,7 @@
         <main class="lg:w-3/4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
             <!-- Product Card 1 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/6001.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/6001.php"><img src="pic/6001.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood, Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -78,12 +78,12 @@
                     <span class="text-gray-500 text-sm ml-2">(120 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.6001B</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/6001.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 2 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/6006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/6006.php"><img src="pic/6006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood, Premium Matte Black</p>
                 <div class="flex items-center mb-3">
@@ -91,12 +91,12 @@
                     <span class="text-gray-500 text-sm ml-2">(85 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.6006B</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/6006.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 3 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/7001_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/7001.php"><img src="pic/7001_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Stainless Steel 430</p>
                 <div class="flex items-center mb-3">
@@ -104,12 +104,12 @@
                     <span class="text-gray-500 text-sm ml-2">(210 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.7001S</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/7001.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/7002_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/7002.php"><img src="pic/7002_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Premium Matte Black </p>
                 <div class="flex items-center mb-3">
@@ -117,12 +117,12 @@
                     <span class="text-gray-500 text-sm ml-2">(150 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.7002B</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/7002.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/6008_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/6008.php"><img src="pic/6008_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 600mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -130,12 +130,12 @@
                     <span class="text-gray-500 text-sm ml-2">(90 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.6008S</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/6008.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/7003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/7003.php"><img src="pic/7003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Premium Matte Black.</p>
                 <div class="flex items-center mb-3">
@@ -143,12 +143,12 @@
                     <span class="text-gray-500 text-sm ml-2">(180 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.7003S</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/7003.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 7 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/9006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/9006.php"><img src="pic/9006_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Slim Hood,Premium Matte Black.</p>
                 <div class="flex items-center mb-3">
@@ -156,12 +156,12 @@
                     <span class="text-gray-500 text-sm ml-2">(250 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.9006B</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/9006.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
 
             <!-- Product Card 8 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/7003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/9003.php"><img src="pic/9003_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood, Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -169,10 +169,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.9003S</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/9003.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/88_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/88H25.php"><img src="pic/88_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood Curved Glass,Premium Matte Black</p>
                 <div class="flex items-center mb-3">
@@ -180,7 +180,7 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.88H25AC90</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/88H25.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <!-- <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
@@ -191,10 +191,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.9299H</p>
-                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div> -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-               <a href=""><img src="pic/9777_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+               <a href="./detail/hood/9777.php"><img src="pic/9777_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Stainless Steel 430 Black Fornt Glass</p>
                 <div class="flex items-center mb-3">
@@ -202,10 +202,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.9777H</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/9777.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/969_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/969.php"><img src="pic/969_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Stainless Steel 430 Black Fornt Glass</p>
                 <div class="flex items-center mb-3">
@@ -213,10 +213,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.969H</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/969.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/9888_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/9888.php"><img src="pic/9888_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2"> Size 900mm Cooker Hood ISLAND, Stainless Steel 430 Black Fornt Glass .</p>
                 <div class="flex items-center mb-3">
@@ -224,10 +224,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.9888H</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/9888.ph"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/new_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/new.php"><img src="pic/new_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 350mm Cooker Hood ISLAND,Stainless Steel 430</p>
                 <div class="flex items-center mb-3">
@@ -235,10 +235,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.New</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/new.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href="./detail/hood/78h25.php"><img src="pic/78_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/78H25.php"><img src="pic/78_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Wall Monuntedm,Stainless Steel 430/Black Glass.</p>
                 <div class="flex items-center mb-3">
@@ -246,10 +246,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.78H25DC90</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/78H25.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/79_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/79H25.php"><img src="pic/79_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Wall Monuntedm,Stainless Steel 430/Black Glass</p>
                 <div class="flex items-center mb-3">
@@ -257,7 +257,7 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.79H25AC90</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/79H25.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
             <!-- <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <img src="https://placehold.co/300x200/BEF264/ffffff?text=Product+8" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg">
@@ -268,10 +268,10 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.88H25AC90</p>
-                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button>
+                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div> -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href=""><img src="pic/97_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
+                <a href="./detail/hood/97H25.php"><img src="pic/97_1.png" alt="Product Image" class="w-full h-38 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 900mm Cooker Hood,Premium Matte Black</p>
                 <div class="flex items-center mb-3">
@@ -279,7 +279,7 @@
                     <span class="text-gray-500 text-sm ml-2">(70 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.97H25AC90</p>
-                <a href=""><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">Add to Cart</button></a>
+                <a href="./detail/hood/97H25.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button></a>
             </div>
         </main>
     </div>

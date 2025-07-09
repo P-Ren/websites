@@ -5,7 +5,7 @@
             <div class="box">
                 <a href="#" class="fas fa-heart"></a>
                 <a href="Gashob.php" class="fas fa-eye"></a>
-                <img src="img/gashob.png" alt="">
+                <a href="Gashob.php"><img src="img/gashob.png" alt=""></a>
                 <a href="Gashob.php"><h3 style="margin-top: 2rem;">Built-In Gas Hob</h3></a>
                 <div class=" stars">
                     <i class="fas fa-star"></i>
@@ -19,7 +19,7 @@
             <div class="box">
                 <a href="#" class="fas fa-heart"></a>
                 <a href="Hob.php" class="fas fa-eye"></a>
-                <img src="img/hob.png" alt="">
+                <a href="Hob.php"><img src="img/hob.png" alt=""></a>
                 <a href="Hob.php"><h3 style="margin-top: 2rem;">Cooker Hob</h3></a>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -34,7 +34,7 @@
             <div class="box">
                 <a href="#" class="fas fa-heart"></a>
                 <a href="Hood.php" class="fas fa-eye"></a>
-                <img src="img/Hood.png" alt="">
+                <a href="Hood.php"><img src="img/Hood.png" alt=""></a>
                 <a href="Hood.php"><h3 style="margin-top: 2rem;">Cooker Hood</h3></a>
                 <div class="stars">
                     <i class="fas fa-star"></i>
