@@ -1,7 +1,7 @@
  <div class="banner mt-5 mb-5">
         <img src="../img/b4.png" alt="Special Offer Banner" class="banner-image">
-        <h3 class="h4 fw-bold mb-3">Limited Time Offer!</h3>
-        <p class="lead mb-4">Get 20% off all jewelry for a limited time. Don't miss out!</p>
+        <h3 class="h4 fw-bold mb-3 font_color">Technology Italy</h3>
+        <p class="lead mb-4">Best Quality Kitchen Appliances</p>
         <!-- <button class="btn btn-primary btn-lg rounded-pill">Shop Now</button> -->
     </div>
 
@@ -13,17 +13,17 @@
             <div class="col-md-4 mb-3">
                 <i class="fas fa-envelope fa-2x text-primary mb-2"></i>
                 <h5 class="fw-bold">Email Us</h5>
-                <p><a href="mailto:info@example.com" class="text-decoration-none text-muted">info@example.com</a></p>
+                <p><a href="mailto:Roncocambodia@gmail.com" class="text-decoration-none text-muted">Roncocambodia@gmail.com</a></p>
             </div>
             <div class="col-md-4 mb-3">
                 <i class="fas fa-phone fa-2x text-primary mb-2"></i>
                 <h5 class="fw-bold">Call Us</h5>
-                <p><a href="tel:+1234567890" class="text-decoration-none text-muted">+1 (234) 567-890</a></p>
+                <p><a href="tel:0969515151" class="text-decoration-none text-muted">(+855)969-515-151</a></p>
             </div>
             <div class="col-md-4 mb-3">
                 <i class="fas fa-map-marker-alt fa-2x text-primary mb-2"></i>
                 <h5 class="fw-bold">Our Location</h5>
-                <p class="text-muted">123 Main Street, Anytown, USA</p>
+                <p class="text-muted">No 329, Commercial Road , Sangkat Chak Angrae Leu, khan Meanchey</p>
             </div>
         </div>
     </div>

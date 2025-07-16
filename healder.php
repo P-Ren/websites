@@ -13,14 +13,14 @@
            <a href="Cetegories.php">Categories</a>
            <a href="allProducts.php">Products</a>
            <a href="#about">about</a>
-           <a href="#review">Newproduct</a>
-           <a href="#order">conteact</a>
+           <a href="#new_p">Newproduct</a>
+           <a href="#order">contacts</a>
        </nav>
 
        <div class="icons">
            <i class="fas fa-bars" id="menu-bars"></i>
            <i class="fas fa-search" id="search-icon"></i>
            <a href="#" class="fas fa-heart"></a>
-           <a href="#" class="fas fa-shopping-cart"></a>
+           <!-- <a href="#" class="fas fa-shopping-cart"></a> -->
        </div>
    </header>

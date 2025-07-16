@@ -122,3 +122,6 @@ body {
             height: 250px;
             transition-duration: 0.2s;
         }
+         .btn_color{
+        background-color: rgb(249, 246, 240);
+        }

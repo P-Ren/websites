@@ -1,4 +1,4 @@
- <section class="home" id="home">
+ <section class="home" id="">
         <div class="swiper home-slider">
             <div class="swiper-wrapper wrapper" style="font-family: khmer os battambang;">
                 <div class="swiper-slide slide">

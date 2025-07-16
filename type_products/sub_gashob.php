@@ -193,7 +193,7 @@
                 <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><a href="gashob_detail/3818.php">View Details</a></button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href="#"><img src="pic/2872_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <a href="gashob_detail/2872.php"><img src="pic/2872_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Built_In Gashob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Larger Heat Area up to 55% Reduce Gas Consumpition.</p>
                 <div class="flex items-center mb-3">
@@ -201,10 +201,10 @@
                     <span class="text-gray-500 text-sm ml-2">(250 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.2872Q</p>
-                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><a href="#">View Details</a></button>
+                <a href="gashob_detail/2872.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View Details</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <a href="#"><img src="pic/2882_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
+                <a href="gashob_detail/2882.php"><img src="pic/2882_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Built_In Gashob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Larger Heat Area up to 55% Reduce Gas Consumpition</p>
                 <div class="flex items-center mb-3">
@@ -212,7 +212,7 @@
                     <span class="text-gray-500 text-sm ml-2">(220 reviews)</span>
                 </div>
                 <p class="text-cyan-500 font-bold text-xl mb-4">RC.2882Q</p>
-                <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80"><a href="#">View Details</a></button>
+                <a href="gashob_detail/2882.php"><button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View Details</button></a>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
                 <a href="gashob_detail/4888.php"><img src="pic/4888_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>

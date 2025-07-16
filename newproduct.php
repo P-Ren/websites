@@ -11,7 +11,7 @@
 
 <body>
   <!-- Swiper -->
-  <div class="swiper mySwiper" id="review">
+  <div class="swiper mySwiper" id="new_p">
      <h3 class="sub-heading">New Products</h3>
     <h1 class="heading"> New Model 2025</h1>
     <div class="swiper-wrapper">

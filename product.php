@@ -1,4 +1,4 @@
-  <section class="menu" id="menu">
+  <section class="menu" id="new_p">
         <h3 class="sub-heading">Products</h3>
         <h1 class="heading"> Popular </h1>
 

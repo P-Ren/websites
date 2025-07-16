@@ -109,7 +109,7 @@
 
             <!-- Product Card 4 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/822_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/822.php"><img src="pic/822_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Booster Fuction  Saving 35% Of Power Consumption.</p>
                 <div class="flex items-center mb-3">
@@ -122,7 +122,7 @@
 
             <!-- Product Card 5 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/8322_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/hob/8322.php"><img src="pic/8322_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hob</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Booster Fuction  Saving 35% Of Power Consumption.</p>
                 <div class="flex items-center mb-3">
@@ -135,7 +135,7 @@
 
             <!-- Product Card 6 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/6001.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/hood/6001.php"><img src="pic/6001.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 6000mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -148,7 +148,7 @@
 
             <!-- Product Card 7 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/7001_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/hood/7001.php"><img src="pic/7001_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Size 700mm Slim Hood,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -161,7 +161,7 @@
 
             <!-- Product Card 8 -->
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/9888_1.png" alt="Product Image" class="w-full h-42 object-cover mb-5 rounded-lg">
+                <a href="./detail/hood/9888.php"><img src="pic/9888_1.png" alt="Product Image" class="w-full h-42 object-cover mb-5 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Cooker Hood</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">900mm Cooker Hood ISLAND,Stainless Steel 430.</p>
                 <div class="flex items-center mb-3">
@@ -172,7 +172,7 @@
                 <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/79H_1.png" alt="Product Image" class="w-full h-42 object-cover mb-3 rounded-lg">
+                <a href="./detail/hood/79H25.php"><img src="pic/79H_1.png" alt="Product Image" class="w-full h-42 object-cover mb-3 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">RANGE HOOD</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Material : Stainless Steel 430/Black Glass.</p>
                 <div class="flex items-center mb-3">
@@ -183,7 +183,7 @@
                 <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/6066_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/Oven/diswasher.php"><img src="pic/6066_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Diswasher</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2"> Built-in Diswasher, Stainless Steel</p>
                 <div class="flex items-center mb-3">
@@ -194,7 +194,7 @@
                 <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-                <img src="pic/2505_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+                <a href="./detail/Oven/microwave.php"><img src="pic/2505_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Microwave</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Buit-in Microwave With Girll, Capacity : 25L</p>
                 <div class="flex items-center mb-3">
@@ -205,7 +205,7 @@
                 <button class="bg-orange-400 text-white px-4 py-4 rounded-full hover:bg-orange-500 transition-colors duration-200 w-80">View More</button>
             </div>
             <div class="bg-white p-4 rounded-xl shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 duration-200 ease-in-out">
-               <img src="pic/7080_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg">
+               <a href="./detail/Oven/oven.php"><img src="pic/7080_1.png" alt="Product Image" class="w-full h-42 object-cover mb-4 rounded-lg"></a>
                 <h3 class="font-semibold text-lg text-gray-800 mb-2">Oven</h3>
                 <p class="text-gray-600 mb-3 line-clamp-2">Stainless Steel Black Glass, Capacity : 70L</p>
                 <div class="flex items-center mb-3">
